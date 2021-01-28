@@ -1,6 +1,6 @@
 # Gear-Zone
 
-A gaming Website using html,css
+A gaming Website using html,css in which people have to make an account and using this account they will be given username which they will be using to play game they want to.
 
 ## Home
 
