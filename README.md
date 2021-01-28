@@ -4,12 +4,13 @@ A gaming Website using html,css in which people have to make an account and usin
 
 ## Home
 
-![Home](https://user-images.githubusercontent.com/68632303/103455116-20339900-4d10-11eb-9c90-2988ef772405.png)
+![Screenshot (826)](https://user-images.githubusercontent.com/68632303/106138044-a0271480-6191-11eb-845d-a813d62186f7.png)
 
 ## Play
 
-![Play](https://user-images.githubusercontent.com/68632303/103455144-57a24580-4d10-11eb-913b-bccfec4c6e98.png)
+![Screenshot (829)](https://user-images.githubusercontent.com/68632303/106138731-84703e00-6192-11eb-97c6-bbf663b42d2e.png)
+
 
 ## Games
 
-![Games](https://user-images.githubusercontent.com/68632303/103455163-91734c00-4d10-11eb-9744-73b8bb538eab.png)
+![Screenshot (828)](https://user-images.githubusercontent.com/68632303/106138053-a3ba9b80-6191-11eb-9d0f-2381bf69716f.png)
